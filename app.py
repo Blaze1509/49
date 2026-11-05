@@ -1,0 +1,49 @@
+from Flask import Flask,request, jsonify
+
+app = Flask(__name__)
+
+
+def check_leave_balance():
+    if(attendace )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
